@@ -1,0 +1,17 @@
+#circulo1 {
+	position: absolute;
+	width: 100px;
+	height: 50px;
+	background: #CBD2D6;
+	border-radius: 100px 100px 0 0;
+
+}
+
+#circulo2 {
+	position: absolute;
+	width: 100px;
+	height: 50px;
+	/*left: 400px; */
+	border-bottom: 50px solid #ABADB0;
+	border-radius: 100px;
+}
